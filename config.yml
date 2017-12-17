@@ -1,0 +1,5 @@
+#defualt
+host:     localhost
+port:     8080
+protocol: http://
+secret:   123456789

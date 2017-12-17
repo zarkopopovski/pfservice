@@ -1,0 +1,13 @@
+name:     Prod1
+description:  Test TEST TEST TEST product for working with more and more data 2 212222
+code:     00001
+quantity: 12
+price:    24.00
+discount: false
+disprice: 0.0
+images:
+- 01_image.jpg
+- 02_image.jpg
+- 03_image.jpg
+- 04_image.jpg
+- 05_image.jpg
